@@ -1,4 +1,4 @@
-# Midterm
+# Environmental Impact of various cuts of meat (Interactive Dashboard in R)
 
 All the pictures used are in /www folder.
 
