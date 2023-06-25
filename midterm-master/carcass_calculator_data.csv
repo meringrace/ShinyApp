@@ -1,0 +1,36 @@
+cut,total_weight,part,protein,cal
+Blended Burger,379,Other,84,960
+Ground Beef,250,Round,88,920
+Beef Trimmings,250,Other,96,544
+Beef Patties,250,Other,64,1376
+Fat,100,Other,0,4080
+Bones,80,Other,48,528
+Round,64,Round,100,720
+Chuck Roll,60,Chuck,76,1200
+Bone-in Ribeye,48,Rib,100,1160
+Bone-in Strip,36,Loin,80,1040
+Top Round,32,Round,104,600
+Sirloin,28,Loin,92,856
+Brisket,28,Brisket,120,1732
+Should Clod,28,Chuck,336,1920
+Shanks,28,Shank,92,800
+Bottom Round,22,Round,92,880
+Chuck Eye,20,Chuck,84,1000
+Boneless NY Strip,16,Loin,92,1000
+Boneless Ribeye,16,Rib,112,1440
+Navel,16,Plate,0,208
+Top Blade,16,Chuck,88,680
+Chuck Underblade,16,Chuck,0,736
+Eye Round,10,Round,96,760
+Short Ribs,10,Chuck,116,1380
+Tenderloin,10,Loin,96,656
+Culotte,6,Loin,80,960
+Tri-tip,6,Loin,80,840
+Flap,5,Chuck,88,760
+Skirt,5,Plate,112,320
+Flank,3,Flank,88,800
+Cheek,2,Other,112,656
+Hanger,1.5,Loin,96,1008
+Oxtail,1.5,Other,140,1120
+Teres Major,1.5,Chuck,124,780
+Tongue,1.25,Other,68,1000
